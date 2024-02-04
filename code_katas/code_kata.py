@@ -1,4 +1,4 @@
-#okokokkk
+#okoko
 
 import hashlibg
 
